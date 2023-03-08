@@ -2,7 +2,8 @@
 
 visit this project at: https://sanketdhengre.github.io/JS-QUIZAPP/
 
-![image](https://user-images.githubusercontent.com/83276393/223638109-79f3d526-eb2d-46e8-bbd1-07ecfb796a55.png)
+
+![image](https://user-images.githubusercontent.com/83276393/223638666-d03e5365-c080-4c03-b134-3808b7ccd18a.png)
 
 
 ![image](https://user-images.githubusercontent.com/83276393/223638256-1529cd7b-6cbc-4c49-a951-6a386af8d6db.png)
